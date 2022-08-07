@@ -1,0 +1,15 @@
+2022-08-02 15:05:43.278925 [guppy/message] ONT Guppy basecalling software version 4.4.1+1c81d6233
+config file:        ont-guppy-cpu/data/dna_r10_450bps_fast.cfg
+model file:         /Users/romain/Desktop/Cours equateur sur NANOPORE /PUCE/SESSION_1/ont-guppy-cpu/data/template_r10_450bps_fast.jsn
+input path:         read.fast5
+save path:          guppy_read
+chunk size:         2000
+chunks per runner:  160
+records per file:   4000
+num basecallers:    1
+cpu mode:           ON
+threads per caller: 4
+
+2022-08-02 15:05:43.281253 [guppy/info] crashpad_handler not supported on this platform.
+2022-08-02 15:05:43.446370 [guppy/error] boost::filesystem::directory_iterator::construct: Not a directory: "read.fast5"
+2022-08-02 15:05:43.446531 [guppy/warning] An error has occurred. Aborting.

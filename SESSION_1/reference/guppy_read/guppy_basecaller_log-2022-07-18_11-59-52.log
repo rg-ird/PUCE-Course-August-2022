@@ -1,0 +1,20 @@
+2022-07-18 11:59:52.951472 [guppy/message] ONT Guppy basecalling software version 4.4.1+1c81d6233
+config file:        ont-guppy-cpu/data/dna_r10_450bps_fast.cfg
+model file:         /Users/romain/Desktop/Cours equateur sur NANOPORE /PUCE/SESSION_1/ont-guppy-cpu/data/template_r10_450bps_fast.jsn
+input path:         .
+save path:          guppy_read
+chunk size:         2000
+chunks per runner:  160
+records per file:   4000
+num basecallers:    1
+cpu mode:           ON
+threads per caller: 4
+
+2022-07-18 11:59:52.953854 [guppy/info] crashpad_handler not supported on this platform.
+2022-07-18 11:59:53.125661 [guppy/message] Found 1 fast5 files to process.
+2022-07-18 11:59:53.126652 [guppy/message] Init time: 170 ms
+2022-07-18 11:59:53.158500 [guppy/info] Error attempting to open file "./read.fast5": Could not open file "./read.fast5".
+2022-07-18 11:59:53.233485 [guppy/message] Caller time: 107 ms, Samples called: 0, samples/s: 0
+2022-07-18 11:59:53.233733 [guppy/message] There were fast5 file loading problems! Failed to load 1 out of 1 fast5 files. Check log file for details.
+2022-07-18 11:59:53.233874 [guppy/message] Finishing up any open output files.
+2022-07-18 11:59:53.267925 [guppy/message] Basecalling completed successfully.

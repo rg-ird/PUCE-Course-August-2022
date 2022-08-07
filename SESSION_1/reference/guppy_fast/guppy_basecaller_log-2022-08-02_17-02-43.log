@@ -1,0 +1,222 @@
+2022-08-02 17:02:43.066286 [guppy/message] ONT Guppy basecalling software version 4.4.1+1c81d6233
+config file:        ont-guppy-cpu/data/dna_r10_450bps_fast.cfg
+model file:         /Users/romain/Desktop/Cours equateur sur NANOPORE /PUCE/SESSION_1/ont-guppy-cpu/data/template_r10_450bps_fast.jsn
+input path:         data/bacillus_subtilis/
+save path:          guppy_fast
+chunk size:         2000
+chunks per runner:  160
+minimum qscore:     7
+records per file:   0
+num basecallers:    1
+cpu mode:           ON
+threads per caller: 4
+
+2022-08-02 17:02:43.067355 [guppy/info] crashpad_handler not supported on this platform.
+2022-08-02 17:02:43.180980 [guppy/message] Found 1 fast5 files to process.
+2022-08-02 17:02:43.181188 [guppy/message] Init time: 112 ms
+2022-08-02 17:02:43.192252 [guppy/info] Read '003084a1-d2fb-4c56-ba98-4efaf05f19ab' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.193500 [guppy/info] Read '003f003d-a943-48b6-bf18-31f89f9fbed6' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.197504 [guppy/info] Read '004c4765-e16f-4a98-9cb9-41612ef796e5' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.198699 [guppy/info] Read '004f8350-7bdb-4ccf-8375-2a945d980b3c' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.201159 [guppy/info] Read '0053d848-a30f-45b1-bdf8-ee572303e154' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.202566 [guppy/info] Read '008ce7b7-a104-4005-a791-b62502b35164' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.203930 [guppy/info] Read '008e0186-094e-4765-a074-00cf40ea28ac' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.208864 [guppy/info] Read '009cc6b4-45fe-47b8-b86b-76535556cc88' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.211158 [guppy/info] Read '00b00cfe-518a-41ce-9122-22b144cc8861' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.214564 [guppy/info] Read '00b7fc27-9851-4c05-803b-564cd5893e43' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.225782 [guppy/info] Read '00c2b7ee-ba08-425b-b788-55f176fd7f37' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.225893 [guppy/info] Read '00da3d2a-e498-4a3f-8019-a39583ae9a08' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.238914 [guppy/info] Read '00e710e7-14d8-4036-9ea1-63966dc0e850' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.239023 [guppy/info] Read '00eaa464-bc29-439c-8e8b-c7782ea22016' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.245419 [guppy/info] Read '012c7867-d11b-4db4-a74c-db277b32340e' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.259642 [guppy/info] Read '0134df74-baee-458c-976c-73e82c40dc01' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.262512 [guppy/info] Read '014875b0-4e0d-4a2f-950f-5b9005237c4a' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.270799 [guppy/info] Read '01572fc9-a9e5-4ee5-a83b-81e9dc13f8cf' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.273822 [guppy/info] Read '015f4166-3bb0-4b9d-b627-63cc4ca3652f' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.273913 [guppy/info] Read '016b95d2-1554-41c2-8336-0f2333a43942' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.273967 [guppy/info] Read '017d85c7-ee09-47f2-9473-1f7b188cf2e9' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.285365 [guppy/info] Read '017df66a-2c3c-409c-8093-323e833b75b7' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.285470 [guppy/info] Read '0186d5eb-526d-4da1-ac20-f4b28745e352' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.285526 [guppy/info] Read '0196a553-b99a-4cd7-8345-f59a7f8dae8c' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.288262 [guppy/info] Read '01a26c85-9cde-40c9-9018-5e33218be151' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.292168 [guppy/info] Read '01adeeea-e63d-4a18-9556-9eb0f2cdd7ef' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.300309 [guppy/info] Read '01bf1645-9b4b-4603-b4b3-22343531350a' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.307254 [guppy/info] Read '01c97606-ad30-474b-ba58-b8e0fb4cbdaf' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.320102 [guppy/info] Read '01dacf4c-1f11-4478-91ac-97e2ded44425' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.320190 [guppy/info] Read '01e0fd82-e417-4c75-b373-e5750dda0ec6' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.320237 [guppy/info] Read '01e5a6ff-8735-448d-a292-45245177d994' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.324053 [guppy/info] Read '01f3c851-79f4-4230-9a65-23989769d4da' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.332711 [guppy/info] Read '01f744a4-7f27-4e93-aee7-45384db1e87d' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.332811 [guppy/info] Read '01fb6e6a-1ff1-44ec-8fb4-e13fe2cbad61' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.345804 [guppy/info] Read '02285480-00fa-4183-aae4-ae15c5287052' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.349767 [guppy/info] Read '023b1c88-ebd7-4a28-a022-c3f26067cf14' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.352506 [guppy/info] Read '0245ed6f-725f-46e8-acf4-a6f72185381d' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.355219 [guppy/info] Read '0283d402-dcc4-41be-99f3-9ca0ea95a6de' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.356656 [guppy/info] Read '028a8633-7052-4ed6-9875-6841f13625d2' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.361783 [guppy/info] Read '02916dfd-b0b3-4139-bfac-d7bf9c8acfda' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.365932 [guppy/info] Read '02a84fa0-97a2-4658-81dd-7756ba40eec4' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.368638 [guppy/info] Read '02b3c950-8ea0-4269-a819-d3148ff7fed7' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.371360 [guppy/info] Read '02bbfc7e-d38f-4faf-839a-0b68c552cc39' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.374027 [guppy/info] Read '02ea2f0c-bb1b-4455-b529-ecfcb8dc3e7c' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.378012 [guppy/info] Read '03052dab-3a06-4d88-b53e-03fc8abd9d14' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.381934 [guppy/info] Read '03068c57-8fb1-42d0-943f-a72c2fa5447a' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.385851 [guppy/info] Read '030fb3ce-20d1-4a3a-bf1e-28efc5eadd23' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.389896 [guppy/info] Read '0318734a-af7c-4414-bb26-125690d0d31b' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.392774 [guppy/info] Read '03220c94-766a-430d-bade-8261c7bde485' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.399228 [guppy/info] Read '0339e7f1-d235-4245-b107-1af6b9d9eb06' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.401933 [guppy/info] Read '03440ff1-56dc-411c-abb9-b5118034b9bb' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.404553 [guppy/info] Read '036ebdc8-6eea-4f7e-beb1-a55497c88f6a' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.407098 [guppy/info] Read '037da98d-9af5-47ea-b8a9-5fa73756aed6' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.409811 [guppy/info] Read '0395d095-fcbe-495f-9349-304b42309c9d' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.412423 [guppy/info] Read '03a21ea3-5447-48ee-ac1b-a2d992a7739d' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.414875 [guppy/info] Read '03a59ed3-ce6d-4ffd-9a0e-a32d263fbf41' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.418603 [guppy/info] Read '03b9d21d-0fcf-4254-b4fa-c65754329124' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.425299 [guppy/info] Read '03bbdd02-dd43-49fc-9ea4-396875218040' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.429298 [guppy/info] Read '03c54e17-8258-447b-b110-ce35b431a905' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.437090 [guppy/info] Read '03de601b-c749-4bef-95a9-792aa18ca281' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.439648 [guppy/info] Read '03f3a80e-9800-465c-915d-b7bd5988e823' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.442243 [guppy/info] Read '0401aca3-54eb-4d5f-829b-a686e45b5bc4' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.444770 [guppy/info] Read '0426e839-503a-4183-a821-7395929dd4b6' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.447374 [guppy/info] Read '0427db72-7cbc-4d7e-b754-50b571f36f8f' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.450999 [guppy/info] Read '0448e59e-506d-4e31-a7d9-3145a89c5925' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.454829 [guppy/info] Read '044f5801-10cb-40e9-9032-ce4f4d01d706' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.457390 [guppy/info] Read '0468e850-412b-4957-bc94-8063f52be9e4' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.462492 [guppy/info] Read '046f2047-fc29-4855-8709-1e6dc306c362' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.466345 [guppy/info] Read '048141cf-4823-496e-8d2e-ab189d267dbe' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.468808 [guppy/info] Read '0498e3e1-1b0c-4ad0-9536-a180312d24df' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.471303 [guppy/info] Read '04c57971-0210-4180-b3a5-23c49e52ffe8' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.473715 [guppy/info] Read '04d03bbb-f13e-43a2-9828-c4b09da6131f' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.476242 [guppy/info] Read '04e88023-6c86-47b1-b801-94c5e25a1a85' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.482466 [guppy/info] Read '04f26824-995e-49df-b661-7bf4efcc8ce9' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.483749 [guppy/info] Read '04fb26c0-c866-46ab-94b1-9b29684930bc' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.488817 [guppy/info] Read '0500ba41-98fb-49ed-b270-e515b7a9c435' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.490213 [guppy/info] Read '050ea2ee-eeb1-4466-b655-9321129e5ee2' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.494941 [guppy/info] Read '055f5ecd-e0c1-4239-81b2-6677f53e48c7' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.497637 [guppy/info] Read '056392da-a6b6-4001-8748-1d442ece09d3' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.500349 [guppy/info] Read '0569c694-e461-4a0e-9e69-e47400b68d8b' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.505527 [guppy/info] Read '05795be9-8f4b-42f3-ae55-9df4a2caeb58' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.521078 [guppy/info] Read '0579c404-37eb-4359-8a1b-e6a5ffedaef1' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.527008 [guppy/info] Read '058a41aa-0083-4190-bb95-c366ea9b100b' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.531001 [guppy/info] Read '0595f7ce-a6ed-4ed5-8b59-d8e5c75df3b4' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.534757 [guppy/info] Read '059becec-f96e-42a8-8ea9-5458d581381f' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.537462 [guppy/info] Read '05a3be4b-1041-4942-892c-88ee9bce7516' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.548957 [guppy/info] Read '05a7e440-a036-4e9f-9b4c-17825e35a896' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.552941 [guppy/info] Read '05a991da-9051-45e8-b812-2510a94cb05f' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.555628 [guppy/info] Read '05b55cf8-a51b-4bdc-a54b-06903343b998' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.560913 [guppy/info] Read '05bbc2f6-a746-42cc-87a9-1d6f539e72bf' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.562312 [guppy/info] Read '05c2c56f-edd8-4f44-bd51-7accff869869' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.566090 [guppy/info] Read '05d75e95-1c11-48c3-9365-22177f312786' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.568475 [guppy/info] Read '05de41d2-e369-427d-9523-67cefa9ee820' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.579777 [guppy/info] Read '05f58739-dd56-43c3-a25b-5a61a4e64811' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.581183 [guppy/info] Read '05f92850-9d23-4e5e-aef5-66c90b1d0e97' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.631634 [guppy/info] Read '05fe7d5f-7b53-4a80-8042-8c74a37628c5' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.634100 [guppy/info] Read '0607c1ee-2d81-4d16-9aaa-600a8aeb0e8a' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.639150 [guppy/info] Read '061290a1-b060-44ee-b1f1-7322d4188b03' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.646725 [guppy/info] Read '062ab209-684f-4d02-99b2-560a4ff24783' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.658502 [guppy/info] Read '0631e562-c59a-4e9b-90de-061630c8dc22' from file "bs_raw.fast5" has been loaded.
+2022-08-02 17:02:43.658685 [guppy/info] Dispatched batch 0 containing 1 inputs:
+2022-08-02 17:02:43.658740 [guppy/info] Batch input 0 : data/bacillus_subtilis/bs_raw.fast5
+2022-08-02 17:02:43.891623 [guppy/info] Read '003084a1-d2fb-4c56-ba98-4efaf05f19ab' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:44.067745 [guppy/info] Read '003f003d-a943-48b6-bf18-31f89f9fbed6' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:45.067992 [guppy/info] Read '004c4765-e16f-4a98-9cb9-41612ef796e5' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:45.068302 [guppy/info] Read '004f8350-7bdb-4ccf-8375-2a945d980b3c' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:45.286040 [guppy/info] Read '0053d848-a30f-45b1-bdf8-ee572303e154' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:45.410215 [guppy/info] Read '008ce7b7-a104-4005-a791-b62502b35164' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:45.620736 [guppy/info] Read '008e0186-094e-4765-a074-00cf40ea28ac' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:46.776762 [guppy/info] Read '009cc6b4-45fe-47b8-b86b-76535556cc88' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:47.045838 [guppy/info] Read '00b00cfe-518a-41ce-9122-22b144cc8861' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:47.328650 [guppy/info] Read '00b7fc27-9851-4c05-803b-564cd5893e43' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:47.502324 [guppy/info] Read '00c2b7ee-ba08-425b-b788-55f176fd7f37' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:47.748076 [guppy/info] Read '00da3d2a-e498-4a3f-8019-a39583ae9a08' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:48.971411 [guppy/info] Read '00e710e7-14d8-4036-9ea1-63966dc0e850' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:49.154532 [guppy/info] Read '00eaa464-bc29-439c-8e8b-c7782ea22016' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:50.083034 [guppy/info] Read '012c7867-d11b-4db4-a74c-db277b32340e' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:51.197002 [guppy/info] Read '0134df74-baee-458c-976c-73e82c40dc01' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:51.613679 [guppy/info] Read '014875b0-4e0d-4a2f-950f-5b9005237c4a' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:51.732143 [guppy/info] Read '01572fc9-a9e5-4ee5-a83b-81e9dc13f8cf' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:51.906251 [guppy/info] Read '015f4166-3bb0-4b9d-b627-63cc4ca3652f' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:51.924338 [guppy/info] Read '016b95d2-1554-41c2-8336-0f2333a43942' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:52.163824 [guppy/info] Read '017d85c7-ee09-47f2-9473-1f7b188cf2e9' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:52.255734 [guppy/info] Read '017df66a-2c3c-409c-8093-323e833b75b7' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:52.815700 [guppy/info] Read '0186d5eb-526d-4da1-ac20-f4b28745e352' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:53.434287 [guppy/info] Read '0196a553-b99a-4cd7-8345-f59a7f8dae8c' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:53.601227 [guppy/info] Read '01a26c85-9cde-40c9-9018-5e33218be151' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:53.787315 [guppy/info] Read '01adeeea-e63d-4a18-9556-9eb0f2cdd7ef' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:54.084204 [guppy/info] Read '01bf1645-9b4b-4603-b4b3-22343531350a' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:54.556279 [guppy/info] Read '01c97606-ad30-474b-ba58-b8e0fb4cbdaf' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:54.819819 [guppy/info] Read '01dacf4c-1f11-4478-91ac-97e2ded44425' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:55.074242 [guppy/info] Read '01e0fd82-e417-4c75-b373-e5750dda0ec6' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:55.172699 [guppy/info] Read '01e5a6ff-8735-448d-a292-45245177d994' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:55.172979 [guppy/info] Read '01f3c851-79f4-4230-9a65-23989769d4da' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:56.091417 [guppy/info] Read '01f744a4-7f27-4e93-aee7-45384db1e87d' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:56.437935 [guppy/info] Read '01fb6e6a-1ff1-44ec-8fb4-e13fe2cbad61' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:57.965423 [guppy/info] Read '02285480-00fa-4183-aae4-ae15c5287052' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:58.380162 [guppy/info] Read '023b1c88-ebd7-4a28-a022-c3f26067cf14' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:58.554480 [guppy/info] Read '0245ed6f-725f-46e8-acf4-a6f72185381d' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:58.752984 [guppy/info] Read '0283d402-dcc4-41be-99f3-9ca0ea95a6de' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:58.871756 [guppy/info] Read '028a8633-7052-4ed6-9875-6841f13625d2' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:59.378117 [guppy/info] Read '02916dfd-b0b3-4139-bfac-d7bf9c8acfda' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:59.631354 [guppy/info] Read '02a84fa0-97a2-4658-81dd-7756ba40eec4' from file "bs_raw.fast5" completed.
+2022-08-02 17:02:59.801598 [guppy/info] Read '02b3c950-8ea0-4269-a819-d3148ff7fed7' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:00.142103 [guppy/info] Read '02bbfc7e-d38f-4faf-839a-0b68c552cc39' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:00.166961 [guppy/info] Read '02ea2f0c-bb1b-4455-b529-ecfcb8dc3e7c' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:00.587211 [guppy/info] Read '03052dab-3a06-4d88-b53e-03fc8abd9d14' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:00.930690 [guppy/info] Read '03068c57-8fb1-42d0-943f-a72c2fa5447a' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:01.196410 [guppy/info] Read '030fb3ce-20d1-4a3a-bf1e-28efc5eadd23' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:01.518899 [guppy/info] Read '0318734a-af7c-4414-bb26-125690d0d31b' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:01.680264 [guppy/info] Read '03220c94-766a-430d-bade-8261c7bde485' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:02.795896 [guppy/info] Read '0339e7f1-d235-4245-b107-1af6b9d9eb06' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:02.982062 [guppy/info] Read '03440ff1-56dc-411c-abb9-b5118034b9bb' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:03.141807 [guppy/info] Read '036ebdc8-6eea-4f7e-beb1-a55497c88f6a' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:03.330523 [guppy/info] Read '037da98d-9af5-47ea-b8a9-5fa73756aed6' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:03.371364 [guppy/info] Read '0395d095-fcbe-495f-9349-304b42309c9d' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:03.723743 [guppy/info] Read '03a21ea3-5447-48ee-ac1b-a2d992a7739d' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:03.778674 [guppy/info] Read '03a59ed3-ce6d-4ffd-9a0e-a32d263fbf41' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:04.215472 [guppy/info] Read '03b9d21d-0fcf-4254-b4fa-c65754329124' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:05.742624 [guppy/info] Read '03bbdd02-dd43-49fc-9ea4-396875218040' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:06.242783 [guppy/info] Read '03c54e17-8258-447b-b110-ce35b431a905' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:08.037059 [guppy/info] Read '03de601b-c749-4bef-95a9-792aa18ca281' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:08.058521 [guppy/info] Read '03f3a80e-9800-465c-915d-b7bd5988e823' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:08.444768 [guppy/info] Read '0401aca3-54eb-4d5f-829b-a686e45b5bc4' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:08.465582 [guppy/info] Read '0426e839-503a-4183-a821-7395929dd4b6' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:09.036107 [guppy/info] Read '0427db72-7cbc-4d7e-b754-50b571f36f8f' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:09.451567 [guppy/info] Read '0448e59e-506d-4e31-a7d9-3145a89c5925' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:10.136259 [guppy/info] Read '044f5801-10cb-40e9-9032-ce4f4d01d706' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:10.353078 [guppy/info] Read '0468e850-412b-4957-bc94-8063f52be9e4' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:10.801825 [guppy/info] Read '046f2047-fc29-4855-8709-1e6dc306c362' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:10.987131 [guppy/info] Read '048141cf-4823-496e-8d2e-ab189d267dbe' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:10.987467 [guppy/info] Read '0498e3e1-1b0c-4ad0-9536-a180312d24df' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:11.355594 [guppy/info] Read '04c57971-0210-4180-b3a5-23c49e52ffe8' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:11.416740 [guppy/info] Read '04d03bbb-f13e-43a2-9828-c4b09da6131f' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:11.662462 [guppy/info] Read '04e88023-6c86-47b1-b801-94c5e25a1a85' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:13.743581 [guppy/info] Read '04f26824-995e-49df-b661-7bf4efcc8ce9' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:13.997106 [guppy/info] Read '04fb26c0-c866-46ab-94b1-9b29684930bc' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:14.845568 [guppy/info] Read '0500ba41-98fb-49ed-b270-e515b7a9c435' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:14.846026 [guppy/info] Read '050ea2ee-eeb1-4466-b655-9321129e5ee2' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:15.560512 [guppy/info] Read '055f5ecd-e0c1-4239-81b2-6677f53e48c7' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:15.789018 [guppy/info] Read '056392da-a6b6-4001-8748-1d442ece09d3' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:16.072267 [guppy/info] Read '0569c694-e461-4a0e-9e69-e47400b68d8b' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:16.758243 [guppy/info] Read '05795be9-8f4b-42f3-ae55-9df4a2caeb58' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:17.535384 [guppy/info] Read '0579c404-37eb-4359-8a1b-e6a5ffedaef1' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:17.953656 [guppy/info] Read '058a41aa-0083-4190-bb95-c366ea9b100b' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:18.473077 [guppy/info] Read '0595f7ce-a6ed-4ed5-8b59-d8e5c75df3b4' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:18.979663 [guppy/info] Read '059becec-f96e-42a8-8ea9-5458d581381f' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:19.189167 [guppy/info] Read '05a3be4b-1041-4942-892c-88ee9bce7516' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:22.139337 [guppy/info] Read '05a7e440-a036-4e9f-9b4c-17825e35a896' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:22.674129 [guppy/info] Read '05a991da-9051-45e8-b812-2510a94cb05f' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:22.927891 [guppy/info] Read '05b55cf8-a51b-4bdc-a54b-06903343b998' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:23.592351 [guppy/info] Read '05bbc2f6-a746-42cc-87a9-1d6f539e72bf' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:23.636318 [guppy/info] Read '05c2c56f-edd8-4f44-bd51-7accff869869' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:23.888315 [guppy/info] Read '05d75e95-1c11-48c3-9365-22177f312786' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:24.107609 [guppy/info] Read '05de41d2-e369-427d-9523-67cefa9ee820' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:26.954410 [guppy/info] Read '05f58739-dd56-43c3-a25b-5a61a4e64811' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:27.080534 [guppy/info] Read '05f92850-9d23-4e5e-aef5-66c90b1d0e97' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:27.498658 [guppy/info] Read '05fe7d5f-7b53-4a80-8042-8c74a37628c5' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:27.722675 [guppy/info] Read '0607c1ee-2d81-4d16-9aaa-600a8aeb0e8a' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:28.298758 [guppy/info] Read '061290a1-b060-44ee-b1f1-7322d4188b03' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:29.660645 [guppy/info] Read '062ab209-684f-4d02-99b2-560a4ff24783' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:29.716588 [guppy/info] Read '0631e562-c59a-4e9b-90de-061630c8dc22' from file "bs_raw.fast5" completed.
+2022-08-02 17:03:29.738153 [guppy/info] Completed batch 0
+2022-08-02 17:03:29.800745 [guppy/message] Caller time: 46620 ms, Samples called: 6183065, samples/s: 132627
+2022-08-02 17:03:29.801044 [guppy/message] Finishing up any open output files.
+2022-08-02 17:03:52.728043 [guppy/message] Basecalling completed successfully.

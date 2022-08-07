@@ -1,0 +1,2 @@
+filename	read_id	run_id	batch_id	channel	mux	start_time	duration	num_events	passes_filtering	template_start	num_events_template	template_duration	sequence_length_template	mean_qscore_template	strand_score_template	median_template	mad_template	scaling_median_template	scaling_mad_template
+read.fast5	003f003d-a943-48b6-bf18-31f89f9fbed6	aea170ff77e7e76bd42c58335c528e15f49ba94c	0	86	1	125383.477500	6.007000	6007	TRUE	125383.477500	6007	6.007000	1939	7.530212	0.000000	47.619595	5.570594	47.619595	5.570594

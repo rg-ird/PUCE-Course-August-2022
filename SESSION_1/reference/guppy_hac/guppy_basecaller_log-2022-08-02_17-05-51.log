@@ -1,0 +1,24 @@
+2022-08-02 17:05:51.636180 [guppy/message] ONT Guppy basecalling software version 4.4.1+1c81d6233
+config file:        ont-guppy-cpu/data/dna_r10_450bps_hac.cfg
+model file:         /Users/romain/Desktop/Cours equateur sur NANOPORE /PUCE/SESSION_1/ont-guppy-cpu/data/template_r10_450bps_hac.jsn
+input path:         .
+save path:          guppy_hac
+chunk size:         2000
+chunks per runner:  512
+minimum qscore:     7
+records per file:   0
+num basecallers:    1
+cpu mode:           ON
+threads per caller: 4
+
+2022-08-02 17:05:51.638079 [guppy/info] crashpad_handler not supported on this platform.
+2022-08-02 17:05:54.524819 [guppy/message] Found 1 fast5 files to process.
+2022-08-02 17:05:54.525040 [guppy/message] Init time: 2885 ms
+2022-08-02 17:05:54.529952 [guppy/info] Read '003f003d-a943-48b6-bf18-31f89f9fbed6' from file "read.fast5" has been loaded.
+2022-08-02 17:05:54.530257 [guppy/info] Dispatched batch 0 containing 1 inputs:
+2022-08-02 17:05:54.530307 [guppy/info] Batch input 0 : ./read.fast5
+2022-08-02 17:06:07.278870 [guppy/info] Read '003f003d-a943-48b6-bf18-31f89f9fbed6' from file "read.fast5" completed.
+2022-08-02 17:06:07.280096 [guppy/info] Completed batch 0
+2022-08-02 17:06:07.348353 [guppy/message] Caller time: 12823 ms, Samples called: 24028, samples/s: 1873.82
+2022-08-02 17:06:07.348521 [guppy/message] Finishing up any open output files.
+2022-08-02 17:06:09.063623 [guppy/message] Basecalling completed successfully.
