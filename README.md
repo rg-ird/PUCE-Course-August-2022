@@ -13,10 +13,13 @@ Veremos cómo obtener secuencias de nucleótidos a partir de señales eléctrica
 -Practicar y tener experiencia en ensamblage de genoma de novo.  
 
 
-**Programa:**. 
-session_0: Antes del inicio del curso, los estudiantes deben tener instalados los programas necesarios para el curso, principalmente Anaconda https://www.anaconda.com/products/distribution Los estudiantes deben estar familiarizados con el jupyter notebook https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html  
-session_1: Introduccion sobre Oxford Nanopore; Connocer el formato Fast5; Llamar las lecturas con Guppy.  
-sesion_2: Quality control of fastq reads; Mapping reads against a reference using Minimap2.  
-session_3: Genome assembly with Minimap2 and Miniasm; Flye and Raven. session_4: Polishing of genome assemblies; Racon; Medaka.  
-session_5: Quality of assembly; Quast; BUSCO.  
+**Programa**. 
+`session_0`: Antes del inicio del curso, los estudiantes deben tener instalados los programas necesarios para el curso, principalmente Anaconda https://www.anaconda.com/products/distribution Los estudiantes deben estar familiarizados con el jupyter notebook https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html  
+`session_1`: Introduccion sobre Oxford Nanopore; Connocer el formato Fast5; Llamar las lecturas con Guppy.  
+`session_2`: Quality control of fastq reads; Mapping reads against a reference using Minimap2.  
+`session_3`: Genome assembly with Minimap2 and Miniasm; Flye and Raven. session_4: Polishing of genome assemblies; Racon; Medaka.  
+`session_5`: Quality of assembly; Quast; BUSCO.  
 
+**Descargar los datos de cada sesión**.  
+
+`session_1`: (Descargar, https://filesender.renater.fr/?s=download&token=6e5a5da4-2feb-44df-bd5d-98ffa45e7c2c)
