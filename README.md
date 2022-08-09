@@ -17,9 +17,9 @@ Veremos cómo obtener secuencias de nucleótidos a partir de señales eléctrica
 `session_0`: Antes del inicio del curso, los estudiantes deben tener instalados los programas necesarios para el curso, principalmente Anaconda https://www.anaconda.com/products/distribution Los estudiantes deben estar familiarizados con el jupyter notebook https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html  
 `session_1`: Introduccion sobre Oxford Nanopore; Connocer el formato Fast5; Llamar las lecturas con Guppy.  
 `session_2`: Control de la cualidad de las lecturas fastq; Mapear lecturas contra un genoma de referencia con Minimap2.  
-`session_3`: Ensemblaje de genoma con Minimap2 y Miniasm; Flye y Raven.  
-`session_4`: 'Polishing' de los ensemblajes con Racon y Medaka.  
-`session_5`: Cualidad de los ensemblajes con Quast y BUSCO.  
+`session_3`: Ensamblaje de genoma con Minimap2 y Miniasm; Flye y Raven.  
+`session_4`: 'Polishing' de los ensamblajes con Racon y Medaka.  
+`session_5`: Cualidad de los ensamblajes con Quast y BUSCO.  
 
 **Descargar los datos de cada sesión**.  
 
