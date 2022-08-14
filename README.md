@@ -29,8 +29,6 @@ Veremos cómo obtener secuencias de nucleótidos a partir de señales eléctrica
 `session_4`: https://filesender.renater.fr/?s=download&token=ab5772a2-a13b-4fff-bbfc-0b753a877006    
 `session_5`: https://filesender.renater.fr/?s=download&token=65ee2f8a-e5d6-4973-9afe-5d04e7cf8ce5     
 
-**Descargar las presentaciones de cada sesión**.  
 
-https://filesender.renater.fr/?s=download&token=56cc173b-749f-4979-93ed-61294f85449d. 
 
 
